@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+동의대학교 시나브로 프로젝트 블라블라블라...
 <!--
 
 **Here are some ideas to get you started:**
